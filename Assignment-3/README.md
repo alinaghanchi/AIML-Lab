@@ -24,3 +24,77 @@ To design and implement a Tic-Tac-Toe game in Python that allows two players to 
 
 - `Aiml_assignment_3.ipynb`
 - `README.md`
+
+TIC TAC TOE
+You = X
+AI  = O
+
+### Output
+Positions:
+1 | 2 | 3
+--+---+--
+4 | 5 | 6
+--+---+--
+7 | 8 | 9
+
+
+  |   |  
+--+---+--
+  |   |  
+--+---+--
+  |   |  
+Enter position (1-9): 5
+AI is thinking...
+
+O |   |  
+--+---+--
+  | X |  
+--+---+--
+  |   |  
+Enter position (1-9): 4
+AI is thinking...
+
+O |   |  
+--+---+--
+X | X | O
+--+---+--
+  |   |  
+Enter position (1-9): 5
+Position already taken!
+
+O |   |  
+--+---+--
+X | X | O
+--+---+--
+  |   |  
+Enter position (1-9): 6
+Position already taken!
+
+O |   |  
+--+---+--
+X | X | O
+--+---+--
+  |   |  
+Enter position (1-9): 2
+AI is thinking...
+
+O | X |  
+--+---+--
+X | X | O
+--+---+--
+  | O |  
+Enter position (1-9): 9
+AI is thinking...
+
+O | X | O
+--+---+--
+X | X | O
+--+---+--
+  | O | X
+Enter position (1-9): 7
+O | X | O
+--+---+--
+X | X | O
+--+---+--
+X | O | X
+Draw!
