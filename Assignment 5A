@@ -1,0 +1,17 @@
+# Assignment 5A: Python Basic Libraries
+
+## Aim
+To implement Python basic libraries such as Math, NumPy, and SciPy.
+
+## Objectives
+- Perform mathematical calculations using Math.
+- Perform numerical operations using NumPy.
+- Apply statistical functions using SciPy.
+
+## Libraries Used
+- Math
+- NumPy
+- SciPy
+
+## Result
+Python basic libraries were successfully implemented to perform mathematical, numerical, and statistical calculations.
