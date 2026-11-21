@@ -45,6 +45,7 @@ Assignment	Folder	Explore
 [Browse the Assignment-5 folder](./Assignment-5/)
 </details>
 
+<details>
 <summary><strong>📓 Assignment 6 — Open folder</strong></summary>
 [Browse the Assignment-6 folder](./Assignment-6/)
 </details>
