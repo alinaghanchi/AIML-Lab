@@ -39,5 +39,5 @@ The preprocessing operations produce a cleaned Titanic dataset with:
 
 | File | Description |
 |---|---|
-| `Assignment_6_AIML.ipynb` | Jupyter Notebook containing the complete implementation |
+| `Assignment_6_AIML.ipynb` | Notebook containing the complete implementation |
 | `README.md` | Assignment description and documentation |
