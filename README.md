@@ -23,7 +23,7 @@ Assignment	Folder	Explore
 
 05	Assignment-5	[📁 Open Assignment 5](./Assignment-5/)
 
-
+06	Assignment-6	[📁 Open Assignment 6](./Assignment-6/)
 
 <details>
 <summary><strong>📘 Assignment 1 — View available files</strong></summary>- [AIML assignment notebook](./Assignment-1/Aiml_assignment_1.ipynb)
@@ -43,6 +43,10 @@ Assignment	Folder	Explore
   
 <summary><strong>📓 Assignment 5 — Open folder</strong></summary>
 [Browse the Assignment-5 folder](./Assignment-5/)
+</details>
+
+<summary><strong>📓 Assignment 6 — Open folder</strong></summary>
+[Browse the Assignment-6 folder](./Assignment-6/)
 </details>
 
 The tree above reflects the repository layout visible in the GitHub screenshots. Assignment folders may contain additional files; open each folder on GitHub to see its current contents.
