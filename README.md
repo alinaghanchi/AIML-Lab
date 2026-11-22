@@ -8,6 +8,7 @@ A curated collection of AIML laboratory assignments, practicals, notebooks, and 
 </p>📂 Browse Assignments · 🧭 Repository Guide · 👩‍🎓 Student Details
 
 </div>✨ About This Repository
+
 This repository brings together my Artificial Intelligence and Machine Learning laboratory work in one organised place. Each assignment is maintained in its own folder so that the related notebooks, code, and documentation are easy to find.
 
 
