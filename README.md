@@ -4,8 +4,8 @@ A curated collection of AIML laboratory assignments, practicals, notebooks, and 
 <p>
   <img src="https://img.shields.io/badge/Repository-AIML--Lab-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="AIML Lab repository">
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00?logo=googlecolab&logoColor=white) 
+ <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google-Colab-F9AB00?logo=googlecolab&logoColor=white" />
 </p>📂 Browse Assignments · 🧭 Repository Guide · 👩‍🎓 Student Details
 
 </div>✨ About This Repository
